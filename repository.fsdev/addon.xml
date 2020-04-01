@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.fsdev" name="FS Dev" version="1.0.0" provider-name="alxmrt">
+<addon id="repository.fsdev" name="FS Dev" version="1.0.1" provider-name="alxmrt">
     <extension point="xbmc.addon.repository" name="FS Dev">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/alxmrt/fsdev-repo/master/zips/addons.xml</info>
